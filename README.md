@@ -7,14 +7,14 @@
                  __/  __       \
                 /  \ /  \       |    ___
                | /`\| /`\|      | .-'  /^\/^\
-               | \(/| \(/|      |/     |) |)|                        Name  : Ruldani
-              .-\__/ \__/       |      \_/\_/__..._                  Repo  : Perpuskita                
-      _...---'-.                /   _              '.                Lang  : Python, C, C#
-     /,      ,             \   '|  `\                \               Soft  : Medibang, Unity
-    | ))     ))           /`|   \    `.       /)  /) |               OS    : Linux Pika & Windows
-    | `      `          .'       |     `-._         /                Learn : Game, Comp Vis, Farm
-    \                 .'         |     ,_  `--....-'                 Game  : Strategy
-     `.           __.' ,         |     / /`'''`
+               | \(/| \(/|      |/     |) |)|                        Name   : Ruldani
+              .-\__/ \__/       |      \_/\_/__..._                  Repo   : Perpuskita                
+      _...---'-.                /   _              '.                Lang   : Python, C, C#
+     /,      ,             \   '|  `\                \               Soft   : Medibang, Unity, Krita
+    | ))     ))           /`|   \    `.       /)  /) |               OS     : Linux Pika & Windows
+    | `      `          .'       |     `-._         /                Learn  : Game, Comp Vis, Farm
+    \                 .'         |     ,_  `--....-'                 Game   : Strategy
+     `.           __.' ,         |     / /`'''`                      Editor : vscode, vscodium
        `'-.____.-' /  /,         |    / /
            `. `-.-` .'  \        /   / |
              `-.__.'|    \      |   |  |-.
