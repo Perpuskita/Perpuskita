@@ -3,8 +3,6 @@
 I’m looking to collaborate on game development <\br>
 I'm interest to code, music and art
 
-                        _____
-                    .-'`     '.
                  __/  __       \
                 /  \ /  \       |    ___
                | /`\| /`\|      | .-'  /^\/^\
