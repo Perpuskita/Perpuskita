@@ -1,7 +1,7 @@
 ## Hi there 👋 Perpuskita / Ruldani
 
-I’m looking to collaborate on game development <\br>
-I'm interest to code, music and art
+#I’m looking to collaborate on game development
+#I'm interest to code, music and art
 
                         _____
                     .-'`     '.
