@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 Perpuskita / Ruldani
 
+I’m looking to collaborate on game development
+I'm interest to code, music and art
 <!--
 **Perpuskita/Perpuskita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
