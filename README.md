@@ -6,7 +6,7 @@ I really like programming and games because they can give me insight and also ap
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-v3.18-3670A0?logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c-csharp-%23239120.svg?&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/c-clang-%2300599c.svg?&logo=&logo=c&Color=white)
+![C](https://img.shields.io/badge/c-clang-%2300599c.svg?&logo=c&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-v6.00-%23000000.svg?&logo=unity&logoColor=white)
 
 # I'm interest to programming, music and art
