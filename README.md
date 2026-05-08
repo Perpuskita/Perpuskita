@@ -49,4 +49,18 @@ I really like programming and games because they can give me insight and also ap
 
 **Perpuskita/Perpuskita** is a ✨ _special_ ✨ repository because its not only repository but a history of ruldani.
 
+# Portofolio Game Dev
+1. ![#Distract](https://perpuskita.itch.io/distract)
+2. 
+
+# Portofolio Golang
+1. ![#Belajar GRPC](https://github.com/Perpuskita/authserver_golang)
+2. ![#Belajar STD.Lib Golang](https://github.com/Perpuskita/BelajarGolang).
+
+# Portofolio Contributor
+1. ![#BellShadeContributor](https://github.com/bellshade/CPP/pull/160).
+2. ![#PapEngine](https://github.com/bellshade/pap-engine/pull/1#event-24838196960).
+
+# Portofolio Pribadi
+Cek ke bawah kolom pin gess :>
 
