@@ -14,7 +14,7 @@ I really like programming and games because they can give me insight and also ap
 ![C](https://img.shields.io/badge/clang-v.C17-%2300599c.svg?&logo=c&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-v6.00-%23000000.svg?&logo=unity&logoColor=white)
 ![Medibang](https://img.shields.io/badge/medibang-v2023.06-%23239120.svg?&logo=medibangpaint&logoColor=ffdd54)
-![Krita](https://img.shields.io/badge/krita-v6.0.3%23239120.svg?&logo=Krita&logoColor=ffdd54)
+![Krita](https://img.shields.io/badge/krita-v6.0.3-239120.svg?logo=Krita&logoColor=ffdd54)
 
 # I'm interest to programming, music and art
                         _____
